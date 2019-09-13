@@ -1,6 +1,16 @@
 # Pyracer
 A simple racing game using `Pygame` and `Python`.
 
+## Index
+
+- [Screenshots](https://github.com/diego-asterisk/pyracer#screenshots)
+- [Game Features](https://github.com/diego-asterisk/pyracer#game-features)
+  - [To Play](https://github.com/diego-asterisk/pyracer#to-play)
+  - [Controls](https://github.com/diego-asterisk/pyracer#controls)
+- [Contributing](https://github.com/diego-asterisk/pyracer#contributing)
+- [Issues](https://github.com/diego-asterisk/pyracer#issues)
+- [License](https://github.com/diego-asterisk/pyracer#license)
+
 ## Screenshots
 
 [[Back to top]](https://github.com/diego-asterisk/pyracer#index)
